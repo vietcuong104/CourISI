@@ -1,0 +1,4 @@
+Content\myTexture\sky.xnb
+Content\myTexture\crosshair.xnb
+Content\myTexture\dog.xnb
+Content\myTexture\YellowStar.xnb

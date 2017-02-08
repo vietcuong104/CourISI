@@ -1,0 +1,10 @@
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\myTexture\sky.xnb
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\myTexture\crosshair.xnb
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\myTexture\dog.xnb
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\Content\myTexture\YellowStar.xnb
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\MyGame.exe
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\bin\x86\Debug\MyGame.pdb
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\obj\x86\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\obj\x86\Debug\MyGame.exe
+C:\Users\Xubeubeu\Documents\Visual Studio 2010\Projects\MyGame\MyGame\MyGame\obj\x86\Debug\MyGame.pdb
